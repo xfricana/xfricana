@@ -6,7 +6,7 @@ I'm an aspiring cybersecurity professional interested in Security Operations (SO
 
 I'm currently building my skills through hands-on labs, cybersecurity training, and personal programming projects.
 
-🛡️ Cybersecurity
+🛡️ CYBERSECURITY
 
 - Security Operations & SOC fundamentals
 - Threat Detection & Analysis
@@ -18,7 +18,7 @@ I'm currently building my skills through hands-on labs, cybersecurity training, 
 - MITRE ATT&CK
 - Network & Endpoint Security
 
-🐍 Programming
+🐍 PROGRAMMING
 
 - Python
 - Git & GitHub
@@ -31,17 +31,22 @@ I'm currently building my skills through hands-on labs, cybersecurity training, 
 - Prompt Engineering
 - AI & Cybersecurity
 
-🎓 Learning & Certifications
 
-- Cybersecurity Defense Analyst
-- Cisco Cybersecurity training
-- AI Technology
-- Generative AI
-- Detection Engineering
-- Splunk
-- SOC & Threat Hunting
+🏆 CERTIFICATIONS & LEARNING CREDENTIALS
 
-🚀 Projects
+🔐 Cybersecurity
+
+- Cisco — Junior Cybersecurity Analyst Career Path
+- Cisco — Cybersecurity Defense Analyst Pathway
+- Cisco — CyberOps Associate
+- TS Academy — Cybersecurity
+
+🤖 AI & Programming
+
+- Cisco — AI Technical Practitioner
+- Cisco — Python Essentials
+
+🚀 PROJECTS
 
 I'm continuously building and documenting projects as I develop my technical skills.
 
@@ -64,18 +69,5 @@ Detection Engineering • SOC Analysis • Python • Cybersecurity • AI
 
 ---
 
-🏆 Certifications & Learning Credentials
-
-🔐 Cybersecurity
-
-- Cisco — Junior Cybersecurity Analyst Career Path
-- Cisco — Cybersecurity Defense Analyst Pathway
-- Cisco — CyberOps Associate
-- TS Academy — Cybersecurity
-
-🤖 AI & Programming
-
-- Cisco — AI Technical Practitioner
-- Cisco — Python Essentials
 
 "Learning, building, and improving — one project at a time."
