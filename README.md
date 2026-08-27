@@ -39,7 +39,7 @@ I'm currently building my skills through hands-on labs, cybersecurity training, 
 - Cisco — Junior Cybersecurity Analyst Career Path
 - Cisco — Cybersecurity Defense Analyst Pathway
 - Cisco — CyberOps Associate
-- TS Academy — Cybersecurity Verification site: https://certificates.tsacademyonline.com/ | Cert ID: TS9D2CM4764JZK
+- TS Academy — Cybersecurity (Verification site: https://certificates.tsacademyonline.com/ | Cert ID: TS9D2CM4764JZK)
 
 🤖 AI & Programming
 
