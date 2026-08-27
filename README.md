@@ -64,4 +64,16 @@ Detection Engineering • SOC Analysis • Python • Cybersecurity • AI
 
 ---
 
-"Learning, building, and improving — one project at a time."
+🏆 Certifications & Learning Credentials
+
+🔐 Cybersecurity
+
+- Cisco — Junior Cybersecurity Analyst Career Path
+- Cisco — Cybersecurity Defense Analyst Pathway
+- Cisco — CyberOps Associate
+- TS Academy — Cybersecurity
+
+🤖 AI & Programming
+
+- Cisco — AI Technical Practitioner
+- Cisco — Python Essentials
