@@ -77,3 +77,5 @@ Detection Engineering • SOC Analysis • Python • Cybersecurity • AI
 
 - Cisco — AI Technical Practitioner
 - Cisco — Python Essentials
+
+"Learning, building, and improving — one project at a time."
