@@ -1,4 +1,4 @@
-Hi, I'm xfricana 👋
+Hi, I'm Qudus T. Afolabi 👋
 
 Cybernetics | Cybersecurity • SOC • Detection Engineering | Python | AI
 
